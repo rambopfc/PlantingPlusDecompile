@@ -1,0 +1,4 @@
+C:\Users\Joe\Desktop\plantingplusilspy\obj\Debug\net48\PlantingPlus.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\plantingplusilspy\obj\Debug\net48\PlantingPlus.PlantingPlus.Properties.Resources.resources
+C:\Users\Joe\Desktop\plantingplusilspy\obj\Debug\net48\PlantingPlus.csproj.GenerateResource.cache
+C:\Users\Joe\Desktop\plantingplusilspy\obj\Debug\net48\PlantingPlus.csproj.CoreCompileInputs.cache
